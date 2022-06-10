@@ -1,0 +1,11 @@
+{
+    "name":"com.holden.testpackage",
+    "version":"1.0.0",
+    "displayName": "FirstCustom",
+    "description": "This is the first custom package!",
+    "author": {
+        "name": "GuoYiBo",
+        "url": "https://github.com/Holden97",
+        "email": "479276132@qq.com"
+    }
+}
